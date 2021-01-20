@@ -1,12 +1,7 @@
 .logo {
 	font-weight: 700;
 	display: inline-block;
+	font-size: 36px;
+	letter-spacing: 3px;
 }
 
-.logo-style-1 {
-	color: #192a56;
-}
-
-.logo-style-2 {
-	color: #718093;
-}
